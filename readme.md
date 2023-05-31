@@ -4,7 +4,7 @@ Selamat datang di repository Tebak Kartu Game! Ini adalah projek latihan yang di
 
 ## Demo
 
-Anda dapat mencoba game Tebak Kartu langsung melalui tautan berikut: [Demo Game Tebak Kartu](https://kangjessy.github.io/)
+Anda dapat mencoba game Tebak Kartu langsung melalui tautan berikut: [Demo Game Tebak Kartu](https://kangjessy.github.io/game-tebak-kartu/index.html)
 
 ## Rencana Ke Depan
 
@@ -12,4 +12,4 @@ Rencana ke depan untuk repository ini adalah mempublikasikan berbagai jenis perm
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [Lisensi Bebas](https://example.com) yang memungkinkan siapapun untuk menggunakan, memodifikasi, dan mendistribusikan ulang kode ini tanpa batasan.
+Proyek ini dilisensikan di bawah [Lisensi Bebas](https://github.com/kangjessy/game-tebak-kartu) yang memungkinkan siapapun untuk menggunakan, memodifikasi, dan mendistribusikan ulang kode ini tanpa batasan.
